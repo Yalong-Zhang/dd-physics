@@ -1,6 +1,0 @@
-{
-  "cmake.debugConfig": {
-    "args": ["./dataset/citeseer_citation.txt", "./dataset/all_idn_citeseer_citation.txt", "./dataset/all_core_citeseer_citation.txt"],
-    "cwd": "${workspaceFolder}"
-  }
-}

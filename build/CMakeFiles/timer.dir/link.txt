@@ -1,2 +1,0 @@
-C:\msys64\ucrt64\bin\ar.exe qc libtimer.a CMakeFiles/timer.dir/src/timer.cpp.obj
-C:\msys64\ucrt64\bin\ranlib.exe libtimer.a
