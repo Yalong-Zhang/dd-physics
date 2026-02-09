@@ -1,0 +1,2 @@
+C:\msys64\ucrt64\bin\ar.exe qc libgraph.a CMakeFiles/graph.dir/src/graph.cpp.obj
+C:\msys64\ucrt64\bin\ranlib.exe libgraph.a
